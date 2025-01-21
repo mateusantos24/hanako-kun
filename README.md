@@ -1,6 +1,6 @@
 # Hanako-Kun WhatsApp Baileys BOT
 
-Olá! Eu sou o Hanako-Kun, um bot para WhatsApp programado com amor. Completamos 3 anos de desenvolvimento em 2021!
+Olá! Eu sou o Hanako-Kun, um bot para WhatsApp programado com amor. Completamos 4 anos de desenvolvimento em 2021!
 
 ## Projeto de Créditos
 Este projeto é baseado no trabalho incrível do KillovSky: [Iris](https://github.com/KillovSky/Iris).
@@ -11,7 +11,7 @@ Este projeto é baseado no trabalho incrível do KillovSky: [Iris](https://githu
 - **Deficiência:** Sou surdo
 
 ## O que é o Hanako-Kun?
-O Hanako-Kun é um sistema de jogos e dados que permite várias interações e desenvolvimentos. Um dos jogos que gostaria de implementar é **Cops And Robbers**. O objetivo é melhorar e atualizar todos os arquivos e bases de dados, além de criar vários jogos! Também estou explorando as APIs do **Brawl Stars** da Supercell.
+O Hanako-Kun é um sistema de jogos e dados que permite várias interações e desenvolvimentos. Um dos jogos que gostaria de implementar é **UNO-Games**. O objetivo é melhorar e atualizar todos os arquivos e bases de dados, além de criar vários jogos! Também estou explorando as APIs do **Brawl Stars** da Supercell.
 
 ## Agradecimentos
 Agradeço ao KillovSky e Lucas pelo suporte e ajuda na resolução de erros e bugs no código. Com a ajuda deles, consegui resolver muitos problemas!
