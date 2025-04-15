@@ -20,7 +20,7 @@ Agradeço ao KillovSky e Lucas pelo suporte e ajuda na resolução de erros e bu
 Meu canal: [Rei Ayanami](https://www.youtube.com/@ReiAyanami7777/videos).
 
 ## Grupos do Hanako-Kun
-Participe dos grupos criados para o Hanako-Kun, que foram estabelecidos entre 2021 e 2024: [Grupo Hanako-Kun](https://chat.whatsapp.com/K5PAnE1mU4MKVvDSl0E2si).
+Participe dos grupos criados para o Hanako-Kun, que foram estabelecidos entre 2021 e 2024: [Grupo Hanako-Kun](https://chat.whatsapp.com/IE9F2XoGCSIKLU3XWRW2l1).
 
 ## Publicação do Código
 Estou planejando publicar o código do Hanako-Kun em um futuro próximo. Aguardem mais novidades!
