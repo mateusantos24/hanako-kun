@@ -1,17 +1,19 @@
 # 🎧 Hanako-kun WhatsApp Bot
 
-**Coming Soon** - Versão pública em breve com **novidades inéditas!**
+**Coming Soon** - Versão pública em breve! 🚀
 
-🌟 Um bot WhatsApp ultra-completo com **600+ comandos**, construído com **Baileys/Whaileys**, desenvolvido e mantido por **Rei Ayanami** desde 2021.
+🙟 Um bot WhatsApp **ultra-completo** com **600+ comandos**, construído com **Baileys/Whaileys**, desenvolvido e mantido por **Rei Ayanami** desde 2021.
 
 ---
 
-## 📌 Versão Atual
+## 📌 Status
 
-**Versão:** 3.2.0  
+**Versão Atual:** 3.2.0  
 **Status:** Em desenvolvimento ativo  
-**Repositório Principal:** [hanakokun](https://github.com/mateusantos24/hanakokun)  
+**Privacidade:** 🔐 **PRIVADO** - A ser liberado futuramente  
 **Óltima Atualização:** Dezembro 2025
+
+> 📁 Este repositório está em status **Coming Soon**. A liberação pública do código está planejada para o futuro.
 
 ---
 
@@ -34,9 +36,9 @@
 
 ---
 
-## 🔓 Sistema Completo
+## 🔐 Sistema Completo
 
-### 🌟 Categorias de Comandos
+### 🙟 Categorias de Comandos
 
 - **👨‍💼 Admin** - Kick, warn, mute, promote, ban, leveling
 - **🎉 Diversão** - Memes, piadas, rate, ship, abraço, slap
@@ -70,20 +72,13 @@
 
 ---
 
-## 🚀 Como Começar
+## 🚀 Publicação
 
-### Repositório Ativo
-
-Este repositório será atualizado em breve com a versão pública.
-
-**Enquanto isso, confira o repositório principal:**
-
-```bash
-git clone https://github.com/mateusantos24/hanakokun.git
-cd hanakokun
-npm install
-npm start
-```
+Este repositório será **aberto ao público** em breve com:
+- 📄 Documentação completa
+- 🛛 Setup guide
+- 💻 Todos os 600+ comandos
+- 🧠 Código totalmente comentado
 
 ---
 
@@ -106,72 +101,41 @@ npm start
 
 ---
 
-## 🔍 Recursos Épicos
+## 📁 Histórico
 
-### 🌟 Sistema VIP
-Crie comandos customizados SEM editar código:
-```
-.criarcmd nome "resposta"
-.editarcmd nome "nova resposta"
-.removercmd nome
-.listarcmd
-```
+- **2021** 🌟 - Início do desenvolvimento
+- **2022-2023** 📣 - Expansão massiva de comandos
+- **2024** 🗐 - Refactor com 50+ databases
+- **2025** 🤖 - Versão 3.2.0 com 600+ comandos
+- **Breve** 🚨 - Liberação pública!
 
-### 🎆 Integração Discord
-Envie mensagens do WhatsApp para Discord e vice-versa:
-```
-.enviar #canal Olá Discord!
-```
+---
 
-### 💾 Downloads Avanzados
-Baixe vídeos, áudio, fotos de qualquer plataforma:
-```
-.videoyt [link]
-.audioyt [link]
-.tiktok [link]
-.instagram [link]
-.spotify [link]
-```
+## 🔐 Privacidade
 
-### 🔄 Hot Reload Inteligente
-Atualize comandos sem parar o bot:
-```
-.reload        # Recarrega todos
-.hotreload     # Hot reload seguro
-```
+🔐 **Este código é PRIVADO**
+- Não há previsão de liberação no momento
+- Será disponibilizado ao público eventualmente
+- A data de liberação será comunicada
+- Não clone/fork sem autorização
 
 ---
 
 ## 👤 Desenvolvedor
 
 **Rei Ayanami** (FuriaDaNoiteBR)  
-👨‍💻 Desenvolvedor de bots desde 2021  
+👨‍💻 Desenvolvedor independente de bots  
+🌠 Ativo desde 2021  
 📍 Brasil  
-🔗 [GitHub](https://github.com/mateusantos24) | [Repositório Ativo](https://github.com/mateusantos24/hanakokun)
+🔗 GitHub: [@mateusantos24](https://github.com/mateusantos24)
 
 ---
 
-## 📁 Histórico
+## 📁 Licença
 
-- **2021** - Início do desenvolvimento
-- **2022-2023** - Expansão massiva de comandos
-- **2024** - Refactor com 50+ databases
-- **2025** - Versão 3.2.0 com 600+ comandos
-- **Breve** - Release público com novidades inéditas!
+🔐 **PRIVADO** - Todos os direitos reservados
 
----
-
-## 🛰 Aviso Importante
-
-Este repositório está em **status Coming Soon**. A versão pública completa com documentação detalhada será lançada em breve.
-
-**Versão atual ativa:** [hanakokun](https://github.com/mateusantos24/hanakokun)
-
----
-
-## 📝 Licença
-
-MIT - Livre para usar, modificar e compartilhar!
+Para solicitar acesso ou mais informações, entre em contato com o desenvolvedor.
 
 ---
 
